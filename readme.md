@@ -4,7 +4,7 @@
 
 ### Step 1
 
-![1]("./add-env-path/1.png")
+![1](./add-env-path/1.png)
 
 ### Step 2
 
@@ -12,15 +12,15 @@
 
 ### Step 3
 
-![3](add-env-path/3.png)
+![3](./add-env-path/3.png)
 
 ### Step 4
 
-![4](add-env-path/4.png)
+![4](./add-env-path/4.png)
 
 ### Step 5
 
-![5]("add-env-path/5.png")
+![5](./add-env-path/5.png)
 
 ### Step 6
 
